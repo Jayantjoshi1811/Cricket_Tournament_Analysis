@@ -51,16 +51,7 @@ Two dashboards were built in Power BI:
 
 ## 📸 Screenshots
 
-
-
----
-
-## 📈 Key Insights
-
-- Top consistent performers across the tournament.
-- Toss impact on match results.
-- Venue-wise performance of teams.
-- Batting first vs chasing success rates.
+![Dashboard](Project_Images/Dashboard_1.png)
 
 ---
 
