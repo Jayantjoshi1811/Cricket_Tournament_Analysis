@@ -30,6 +30,12 @@ This project provides a complete analysis of the IPL 2025 season using Python an
   - `Player_Stats`
   - `Team_Performance`
   - `Match_Overview`
+![Data Cleaning & Structuring](Project_Images/jupyter1.png)
+
+![Data Cleaning & Structuring](Project_Images/jupyter2.png)
+
+![Data Cleaning & Structuring](Project_Images/jupyter3.png) 
+
 
 ### 3. Export to Power BI
 - Cleaned datasets exported as `.csv` files for visualization in Power BI.
